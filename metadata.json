@@ -1,0 +1,6 @@
+{
+  "name": "AI Paraphraser",
+  "description": "Free full-featured AI Paraphraser writing suite with 9 modes, synonyms slider, Grammar Checker, Summarizer, AI Content Detector, Plagiarism Scanner, Translator, Citation Generator, and Co-Writer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
